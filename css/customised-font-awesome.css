@@ -1,0 +1,62 @@
+.fa-twitter {
+	color: #19a990;
+	padding: 30px;
+	width: 50px;
+	text-align: center;
+}
+.fa-twitter:hover {
+	color: #fff;
+	background: #19a990;
+	border-radius: 100%;
+	cursor: pointer;
+}
+
+.fa-facebook{
+	color: #19a990;
+	padding: 30px;
+	width: 50px;
+	text-align: center;
+	cursor: pointer;
+
+}
+.fa-facebook:hover {
+	color: #fff;
+	background: #19a990;
+	border-radius: 100%;
+	
+
+}
+
+.fa-comment-o {
+	color: #19a990;
+	padding: 30px;
+	width: 50px;
+	text-align: center;
+	cursor: pointer;
+}
+.fa-comment-o:hover {
+	color: #fff;
+	background: #19a990;
+	border-radius: 100%;
+}
+
+.fa-star {
+	color: #19a990;
+	padding: 0px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.fa-star-o {
+	color: #19a990;
+	padding: 0px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.fa-map-marker {
+	color: #19a990;
+	padding: 2px;
+	text-align: center;
+	cursor: pointer;
+}
